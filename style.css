@@ -127,8 +127,8 @@ header nav ul li:hover {
 }
 
 #projects ul li {
-  width: 33.33%;
-  float: left;
+  width: 33%;
+  float: center;
   margin-bottom: 15px;
 }
 
@@ -162,8 +162,8 @@ header nav ul li:hover {
 }
 
 #projects ul li {
-  width: 33.33%;
-  float: left;
+  width: 33%;
+  float: center;
   margin-bottom: 15px;
 }
 
